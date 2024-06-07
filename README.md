@@ -59,12 +59,9 @@ To run the College Community Application locally, follow these steps:
 3. Build and run the application using Java.
 
 ## APP
-![WhatsApp Image 2024-06-07 at 23 07 37_644f9c09](https://github.com/Jainharshit09/PeerHub/assets/114314853/5f960982-99c5-4a96-ae57-d5ef0e10c53d)
-![WhatsApp Image 2024-06-07 at 23 07 39_4b8815af](https://github.com/Jainharshit09/PeerHub/assets/114314853/b2a80d68-17e1-4991-aa5f-9675e60e24ee)
-![WhatsApp Image 2024-06-07 at 23 07 38_03bb7453](https://github.com/Jainharshit09/PeerHub/assets/114314853/7356538e-3fe4-42cd-9dff-9aa1ca3728ef)
-![WhatsApp Image 2024-06-07 at 23 07 40_7ed4fd7b](https://github.com/Jainharshit09/PeerHub/assets/114314853/1c55c9cf-53c2-4c8c-be70-5fb1d64a61a9)
-![WhatsApp Image 2024-06-07 at 23 07 41_fa660056](https://github.com/Jainharshit09/PeerHub/assets/114314853/29bd3109-a615-481e-a240-e6b0bb841a80)
-![WhatsApp Image 2024-06-07 at 23 07 42_1d0d6b1f](https://github.com/Jainharshit09/PeerHub/assets/114314853/6fe60734-6c11-4045-972f-8dcda225c104)
+![WhatsApp Image 2024-06-07 at 23 07 37_644f9c09](https://github.com/Jainharshit09/PeerHub/assets/114314853/5f960982-99c5-4a96-ae57-d5ef0e10c53d) ![WhatsApp Image 2024-06-07 at 23 07 39_4b8815af](https://github.com/Jainharshit09/PeerHub/assets/114314853/b2a80d68-17e1-4991-aa5f-9675e60e24ee)
+![WhatsApp Image 2024-06-07 at 23 07 38_03bb7453](https://github.com/Jainharshit09/PeerHub/assets/114314853/7356538e-3fe4-42cd-9dff-9aa1ca3728ef)     ![WhatsApp Image 2024-06-07 at 23 07 40_7ed4fd7b](https://github.com/Jainharshit09/PeerHub/assets/114314853/1c55c9cf-53c2-4c8c-be70-5fb1d64a61a9)
+![WhatsApp Image 2024-06-07 at 23 07 41_fa660056](https://github.com/Jainharshit09/PeerHub/assets/114314853/29bd3109-a615-481e-a240-e6b0bb841a80)    ![WhatsApp Image 2024-06-07 at 23 07 42_1d0d6b1f](https://github.com/Jainharshit09/PeerHub/assets/114314853/6fe60734-6c11-4045-972f-8dcda225c104)
 ![WhatsApp Image 2024-06-07 at 23 07 43_7fb733cb](https://github.com/Jainharshit09/PeerHub/assets/114314853/e2544e10-5130-4c2d-b62c-9e043ec3a6b0)
 
 
