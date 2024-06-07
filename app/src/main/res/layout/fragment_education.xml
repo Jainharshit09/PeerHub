@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Education">
+
+    <ImageView
+        android:id="@+id/initialImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/education"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginTop="30dp"
+        android:visibility="visible"/>
+    <TextView
+        android:id="@+id/initialTextView"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="Let your education shine! Fill in your educational background to highlight your academic achievements."
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="300dp"
+        android:alpha="0.7"
+        android:visibility="visible" />
+
+    <!-- Add LinearLayout for education details -->
+    <LinearLayout
+        android:id="@+id/educationDetailsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <!-- Add TextViews for displaying education details here -->
+        <TextView
+            android:id="@+id/universityTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="University/College:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/degreeTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Degree/Specialization:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/fromDateTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="From Date:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/toDateTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="To Date:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/cgpaTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CGPA/Percentage:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</FrameLayout>

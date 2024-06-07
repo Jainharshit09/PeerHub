@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners
+        android:radius="8dp"/>
+    <stroke
+        android:color="@color/white"
+        android:width="2dp"
+        android:dashWidth="1dp"
+        android:dashGap="2dp"/>
+        <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Search"
+        android:textColor="#FFFFFF"
+        android:layout_centerInParent="true"/>
+
+
+
+</shape>

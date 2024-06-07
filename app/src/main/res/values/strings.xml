@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Peer Hub</string>
+    <string name="search_for_peers">Search for peers</string>
+    <string name="search_here_peers">Search yours peers</string>
+    <string name="like">Like</string>
+    <string name="comment">comment</string>
+    <string name="save">save</string>
+    <string name="share">share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="create">Create</string>
+    <string name="profile">Profile</string>
+</resources>

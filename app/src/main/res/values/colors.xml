@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3D40B5</color>
+    <color name="yellow">#E4BF05</color>
+    <color name="grey">#818181</color>
+    <color name="orange">#FE6800</color>
+     <color name="grey2">#8E8787</color>
+        <color name="my_primary">#5E35B1</color>
+    <color name="my_secondary">#673AB7</color>
+    <color name="inverted">#A29B9B</color>
+     <color name="background_message">#8E3EFF</color>
+</resources>
